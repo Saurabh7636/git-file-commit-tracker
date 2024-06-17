@@ -4,7 +4,7 @@
 # Script: commit_info.sh
 # Description: Extracts commit information from files within
 #              a Git repository and organizes it into a CSV file.
-# Author: Your Name
+# Author: Saurabh Singh
 # Date: June 2024
 #
 # Usage:
